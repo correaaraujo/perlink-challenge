@@ -1,7 +1,7 @@
 import express from "express";
 import bodyParser from "body-parser";
 import Logger from "morgan";
-import CoordinatesRoutes from "./account/coordinates";
+import CoordinatesRoutes from "./coordinates/coordinates";
 
 /**
  * Server startup 

@@ -1,6 +1,5 @@
 import { expect } from "chai";
 import "mocha";
-import { AccountViolations } from "../types";
 import CoordinatesService from "../services/coordinates-service";
 
 const _coordinatesService = new CoordinatesService()

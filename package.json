@@ -7,7 +7,7 @@
     "build": "tsc",
     "test": "mocha -r ts-node/register ./tests/*.spec.ts",
     "dev": "ts-node ./entry.ts",
-    "start": "nodemon ./entry.ts",
+    "start": "nodemon .n/entry.ts",
     "prod": "npm run build && npm run start"
   },
   "author": "",
