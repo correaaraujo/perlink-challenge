@@ -36,7 +36,7 @@
     "@types/redis": "^2.8.13",
     "@types/twitter": "^1.7.0",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "ts-node": "^8.3.0"
   }
 }
